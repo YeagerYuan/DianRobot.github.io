@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Dian Group Robot Team
       image:
         filename: welcome.jpg
       text: |
