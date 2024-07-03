@@ -8,7 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-        Dian Group Robot Team
+        Dian Group
+        Robot Team
       image:
         filename: welcome.jpg
       text: |
